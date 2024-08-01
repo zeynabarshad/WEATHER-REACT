@@ -1,0 +1,122 @@
+
+.maindiv{
+    width: 100%;
+    overflow: hidden
+    ;
+    display: flex;
+    height: 110vh;
+   
+}
+.uvdiv{
+    
+    width: 600px;
+    overflow: hidden;
+    height: 100vh;
+margin-top: 30px;
+
+}
+.uvpic{
+    width: 500px;
+    height: 500px;
+ margin-left: 30px;
+ background-blend-mode: lighten;
+ 
+ 
+ background-color: rgba(193, 188, 188, 0.758);
+    background-image: url('../uv2.jpg');
+    background-size: cover;  /* Ensure the background image covers the entire space */
+background-position: center; /* Center the image */
+background-repeat: no-repeat;
+border-radius: 40px;
+z-index: -9;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.uvpic .uparwali{
+width: 360px;
+height: 470px;
+
+    background-image: url('../uv2.jpg');
+    background-size: cover;  /* Ensure the background image covers the entire space */
+background-position: center; /* Center the image */
+background-repeat: no-repeat;
+border-radius: 130px;
+
+border: 2px dashed  white ;
+
+}
+.worldwide .h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.search{
+    width: 340px;
+    border: 1px solid rgba(116, 116, 116, 0.381);
+    height: 36px;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.search-btn{
+    border: none;
+    width: 70px;
+    height: 36px;
+    border-radius: 5px;
+}
+.worldwide{
+    width: 600px;
+    
+    
+}
+.weather-info {
+    padding: 20px;
+    border-radius: 10px;
+  
+  margin-left: -40px;
+    color: #fff;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    background-position: center;
+    background-size: cover; 
+  }
+
+  /*heatwaves */
+  .pagination button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  border: none;
+  background-color: #f0f0f0;
+ 
+  cursor: pointer;
+}
+
+.pagination button.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.pagination button:disabled {
+  background-color: #e0e0e0;
+  cursor: not-allowed;
+}
+.news{
+    width: 300px;
+    height: 200px;
+    padding-left: 10px;
+ padding-top: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+   background-color: #b6b0b073;
+    background-size: cover;  /* Ensure the background image covers the entire space */
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.weather-news{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+ 
+
+}

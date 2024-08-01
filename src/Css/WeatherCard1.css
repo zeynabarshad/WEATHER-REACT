@@ -1,0 +1,61 @@
+/* src/components/WeatherCard.css */
+.weathercard1 {
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 250px;
+    margin-top: 260px;
+    height: 200px;
+    text-align: left;
+    background-image: url('../3.jpg') ;
+    background-size: cover;  /* Ensure the background image covers the entire space */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+  }
+  
+  .weathercard1 img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .weathercard1 .info {
+    padding: 20px;
+
+  }
+  
+  .weathercard1 .time1 {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .weathercard1 .title1 {
+    font-size: 1.2em;
+    margin-top: 10px;
+    font-weight: 700;
+    color: white;
+  }
+  
+  .weathercard1 .weather1 {
+    font-size: 2em;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .weathercard1 .location1,
+  .weathercard1 .date1,
+  .weathercard1 .warning1 {
+    font-size: 0.9em;
+    color: rgb(255, 255, 255);
+  }
+  
