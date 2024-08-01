@@ -76,7 +76,7 @@ const Weatherdata = () => {
           marginLeft:'-8px',
   backgroundRepeat:'no-repeat',
           backgroundPosition: 'center',
-          backgroundSize: 'cover', 
+         
           padding: '20px',
           borderRadius: '10px',
           color: '#fff',

@@ -1,5 +1,5 @@
 
-//17b78539c3444e4e84d203f33f7576e8 news api
+
 import React, { useState, useEffect } from 'react';
 import '../Css/uvweather.css'
 

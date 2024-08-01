@@ -1,6 +1,6 @@
 import React from 'react'
 import '../Css/uvweather.css'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 import Weatherdata from './Weatherdata'
 
 const Uvweather = ({uvindex}) => {
