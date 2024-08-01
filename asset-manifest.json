@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WEATHER-REACT/static/css/main.50908a64.css",
+    "main.js": "/WEATHER-REACT/static/js/main.639f6a71.js",
+    "static/js/453.7c239e98.chunk.js": "/WEATHER-REACT/static/js/453.7c239e98.chunk.js",
+    "static/media/uv2.jpg": "/WEATHER-REACT/static/media/uv2.1e7840036c78e4fb9ad7.jpg",
+    "static/media/4.jpg": "/WEATHER-REACT/static/media/4.59fe74f21b6b2924e98c.jpg",
+    "static/media/background.jpg": "/WEATHER-REACT/static/media/background.7450536d0a819bb95f2e.jpg",
+    "static/media/scatter.jpg": "/WEATHER-REACT/static/media/scatter.a4adbb4791178c4a1470.jpg",
+    "static/media/rainyy.jpg": "/WEATHER-REACT/static/media/rainyy.208860a9cd09f722b90d.jpg",
+    "static/media/cloudy.jpg": "/WEATHER-REACT/static/media/cloudy.52aa431b66f8da9ecdd4.jpg",
+    "static/media/3.jpg": "/WEATHER-REACT/static/media/3.0ec24cbed19a8dd18912.jpg",
+    "static/media/pexels-apasaric-325185.jpg": "/WEATHER-REACT/static/media/pexels-apasaric-325185.ba5b2c8011b625d46b8d.jpg",
+    "static/media/clearsky.jpg": "/WEATHER-REACT/static/media/clearsky.c8cb1031c6ab56c1ce66.jpg",
+    "static/media/1.jpg": "/WEATHER-REACT/static/media/1.423c202ffbb065eeffc5.jpg",
+    "static/media/bootstrap-icons.woff?": "/WEATHER-REACT/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/WEATHER-REACT/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/WEATHER-REACT/index.html",
+    "main.50908a64.css.map": "/WEATHER-REACT/static/css/main.50908a64.css.map",
+    "main.639f6a71.js.map": "/WEATHER-REACT/static/js/main.639f6a71.js.map",
+    "453.7c239e98.chunk.js.map": "/WEATHER-REACT/static/js/453.7c239e98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50908a64.css",
+    "static/js/main.639f6a71.js"
+  ]
+}
